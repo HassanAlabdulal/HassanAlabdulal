@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- 📫 You can contact me on: **hassan.alabdulaaal@gmail.com**
+- 📫 You can contact me at: **hassan.alabdulaaal@gmail.com**
 
 <hr>
 
