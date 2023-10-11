@@ -9,7 +9,7 @@
 
 <h3 align="left">💫 About Me:</h3>
 
-- 🔭 I’m currently working on **amazing web applications using pure JavaScript**
+- 🔭 I’m interested in **Web Development**
 
 - 🌱 I’m currently learning **React JS**
 
