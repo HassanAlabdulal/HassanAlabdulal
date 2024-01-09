@@ -7,10 +7,13 @@
 
 <img align="right" width="400" src="[https://iconscout.com/lottie-animation/freelance-developer-working-on-laptop-4337850](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FCoding-Meet&psig=AOvVaw2jhVOvG1MNHUmA2K3D39zs&ust=1704889378569000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCICppIam0IMDFQAAAAAdAAAAABAI)">
 
-# 💫 About Me:
-- 🔭 I’m interested in **Web Development**
-- 🌱 I’m currently learning **React JS**
-- 📫 You can contact me at: **hassan.alabdulaaal@gmail.com**
+## 👨‍💻 About Me:
+
+- 🎓 Software Engineering student @ KFUPM with a zeal for frontend development and UX design.
+- 🌐 Crafting web solutions with Next JS, driven by user experience and efficient problem-solving.
+- 🚀 Keen on innovation and eager to contribute to a team's success in the tech industry.
+- 📧 Reach out for collaborations: [hassan.alabdulaal@gmail.com](mailto:hassan.alabdulaal@gmail.com)
+
 
 
 ## 🌐 Socials:
