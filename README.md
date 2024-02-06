@@ -12,7 +12,7 @@
 - 🎓 Software Engineering student @ KFUPM with a zeal for frontend development and UX design.
 - 🌐 Crafting web solutions with React JS, driven by user experience and efficient problem-solving.
 - 🚀 Keen on innovation and eager to contribute to a team's success in the tech industry.
-- 📧 Reach out for collaborations: [hassan.alabdulaal@gmail.com](mailto:hassan.alabdulaal@gmail.com)
+- 📧 Reach out for collaborations: [hassan.alabdulaal@gmail.com](mailto:hassan.alabdulaaal@gmail.com)
 
 
 
