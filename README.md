@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Hassan Alabdulal</h1>
-<h3 align="center">Software Engineering Student @KFUPM</h3>
+<h3 align="center">Senior Software Engineering Student @KFUPM</h3>
 
 <hr>
 
@@ -9,8 +9,8 @@
 
 ## 👨‍💻 About Me:
 
-- 🎓 Senior Software Engineering student @ KFUPM, specializing in full-stack mobile and web development.
-- 🌱 Currently working at LazyWait, contributing to innovative tech projects.
+- 🔭 Currently working at LazyWait, contributing to innovative tech projects.
+- ✨ Full-stack developer specializing in mobile and web development.
 - 🌐 Experienced in React JS and React Native, with a focus on frontend and backend integration.
 - 🚀 Passionate about delivering efficient solutions and enhancing user experiences.
 - 📧 Reach out for collaborations: [hassan.alabdulaaal@gmail.com](mailto:hassan.alabdulaaal@gmail.com)
